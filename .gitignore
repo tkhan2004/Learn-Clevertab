@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Ghi chú tạm / dữ liệu export không nên commit
+*.tmp
+drafts/
+exports/
+*.csv
